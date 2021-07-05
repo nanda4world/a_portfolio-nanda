@@ -1,0 +1,27 @@
+{
+  "name": "a_portfolio",
+  "version": "1.0.0",
+  "description": "This is another portfolio samole\u001b[D\u001b[p",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanda4world/a_portfolio-nanda.git"
+  },
+  "keywords": [
+    "video"
+  ],
+  "author": "Nanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanda4world/a_portfolio-nanda/issues"
+  },
+  "homepage": "https://github.com/nanda4world/a_portfolio-nanda#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
